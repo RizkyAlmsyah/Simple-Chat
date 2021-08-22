@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030211753542",
+    "project_id": "rizky-coffee-brew",
+    "storage_bucket": "rizky-coffee-brew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030211753542:android:16ece4345adbea5d869c47",
+        "android_client_info": {
+          "package_name": "com.rizky.coffee_brew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030211753542-67tncq58237d6vj7ke1pkj3e2elbcv12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrQHxBVpZ3NYf89CCIQwwLjWi0dI3T_fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030211753542-67tncq58237d6vj7ke1pkj3e2elbcv12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
